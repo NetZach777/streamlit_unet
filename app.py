@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # URL de l'API FastAPI
-API_URL = "http://13.61.22.194:8000/segment"
+API_URL = "http://13.60.171.86:8000/segment"
 
 # Titre de l'application
 st.title("Segmentation d'image avec U-Net")
